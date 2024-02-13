@@ -4,7 +4,7 @@ import React from 'react'
 
 export default function Home() {
   return (
-    <div className="w-screen h-screen content-center mx-auto my-auto bg-black bg-opacity-90">
+    <div className="w-screen h-screen content-center mx-auto my-auto bg-black bg-opacity-85">
       <BrandTitle />
     </div>
   )
